@@ -4,7 +4,7 @@
 - 📚 Currently at a Bachelor's of Electronics and Telecommunications Engineer at Universidade Federal de Uberlândia.
 - 💻 Intern at Algar Telecom
 - 🔧 Member of Education Tutorial Program of Electronics and Telecommunications Enginner.
-- 👨‍💻 Learning Java and Machine Learning.
+- 👨‍💻 Learning Python and Machine Learning.
 
 ##
 
